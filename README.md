@@ -46,7 +46,7 @@ Group by vehicle type, year, zip code to see relation between vehicle percentage
 Plot relevant data
 
 
-**Deliverables **
+**Deliverables**
 Slide Deck
 Project Report 
 
